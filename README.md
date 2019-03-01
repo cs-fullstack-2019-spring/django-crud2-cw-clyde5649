@@ -1,3 +1,7 @@
+### POINTS: 0
+### KEY: Incomplete. Does not implement Create, Modify, or Delete
+
+
 # Django CRUD 2 cw
 
 Create a simple CRUD application to manage contacts. Each contact should have:
